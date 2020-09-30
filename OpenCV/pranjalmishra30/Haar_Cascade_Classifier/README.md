@@ -3,6 +3,14 @@
 ## Introduction  
 Haar based classification is a Machine Learning technique to detect objects in images or videos. We will be using pre-trained Haar classifiers in OpenCV to detect faces in images and webcam.  
 
+## Pre-requisites  
+1) **Python3**   
+  Make sure you are on the latest version.  
+  For downloading Python3 check [here](https://www.python.org/downloads/)  
+  
+2) **OpenCV**   
+  For installing the OpenCV library refer [here](https://pypi.org/project/opencv-python/)
+
 ## Executing the code  
 1) Run the `.py` file by running the command `python3 Img_FaceDetection.py` in the terminal or cmd. This detects faces in images.  
 2) Run **Haar_FaceDetection.py** to use webcam for face detection.  
