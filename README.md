@@ -9,4 +9,5 @@ To contribute to this repo:
 4. Create a folder with your github username 
 5. Create seperate files for all the issues you are solving 
 6. Open PRs for the issues you are solving. (You can open multiple PRs for different issues by branching).
+7. You must share a screenshot of your program working 
 
